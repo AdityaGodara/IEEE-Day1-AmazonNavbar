@@ -9,10 +9,3 @@
   <li>There should be a button with text "Go to sales dashboard" somewhere in your webpage. It should be according to your webpage theme.</li>
   <li>It should NOT be a clone.</li>
 </ul>
-
-<h2>Prizes:</h2>
-<ul>
-  <li>2000rs : 1st prize</li>
-  <li>1000rs : 2nd prize</li>
-  <li>500rs : 3rd prize</li>
-</ul>
