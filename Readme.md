@@ -5,7 +5,7 @@
 <h2>Rules:</h2>
 <ul>
   <li>The navbar should not be changed. NOT even the colors should be changed for the Navbar.</li>
-  <li>The webpage should be desiigned with your own creativity. It should NOT be a clone.</li>
+  <li>The webpage should be designed with your own creativity. It should NOT be a clone.</li>
   <li>There should be a button with text "Go to sales dashboard" somewhere in your webpage. It should be according to your webpage theme.</li>
-  <li>It should NOT be a clone.</li>
+  <li>The Navbar must be included in your webpage as it is..</li>
 </ul>
