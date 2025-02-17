@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap');
+
+:root{
+    --nav-color: #131a22;
+    --subnav-color: #232f3f;
+    --searchbut-color: #fbd183;
+    --font-fam: 'Baloo Bhai 2', cursive;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: var(--font-fam);
+}
+.nav-belt{
+    background-color: var(--nav-color);
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    padding: 10px;
+}
+.logo img{
+    width: 120px;
+}
+.address{
+    color:white;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.deliver-txt{
+    display: flex;
+    flex-direction: column;
+}
+
+.deliver-txt span:first-child{
+    font-size: 12px;
+}
+.deliver-txt span:nth-child(2){
+    font-weight: bold;
+}
+
+.search-bar{
+    display: flex;
+    color:white;
+    align-items: center;
+}
+.all{
+    display: flex;
+    gap: 5px;
+    background-color: rgb(224, 224, 224);
+    color: black;
+    padding: 6px;
+    width: 40px;
+    border-radius: 3 px 0px 0px 3px;
+}
+.input-btn{
+    display: flex;
+    font-family: var(--font-fam);
+}
+.input-btn input{
+    padding: 10px;
+    width: 550px;
+}
+.input-btn button{
+    width: 50px;
+    border-radius: 0 3px 3px 0;
+    background-color: var(--searchbut-color);
+    border: none;
+}
+.right{
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 50px;
+}
+.flag{
+    display: flex;
+    gap: 5px;
+}
+.flag img{
+    width: 30px;
+    height: 30px;
+}
+
+.en span:first-child{
+    font-weight: bold;
+}
+.sign{
+    display: flex;
+    flex-direction: column;
+}
+.sign span:first-child{
+    font-size: 12px;
+}
+.sign span:nth-child(2){
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.return{
+    display: flex;
+    flex-direction: column;
+}
+.return span:first-child{
+    font-size: 12px;
+}
+.return span:nth-child(2){
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.cart{
+    display: flex;
+    gap: 8px;
+    margin-right: 20px;
+}
+.cart i{
+    font-size: 30px;
+}
+.car span{
+    font-size: 20px;
+}
